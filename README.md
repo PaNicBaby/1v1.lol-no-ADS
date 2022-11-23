@@ -23,4 +23,4 @@
 4. `Enjoy!`
 
 ## Screenshot
-![image](https://cheater.fun/uploads/posts/2022-09/screenshot-8.webp)
+![image](https://cdn.discordapp.com/attachments/758479120887054386/1045037823801184436/Untitled.png)
