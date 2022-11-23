@@ -1,6 +1,7 @@
-# UNDETECTED
-
 # 1v1.lol-no-ADS
+
+
+UNDETECTED
 
 **#HotKeys:
 
