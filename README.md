@@ -2,7 +2,8 @@
 
 
 
-#HotKeys:
+**#HotKeys:
+
 [T] to toggle Aimbot
 
 [N] to toggle wireframe view
