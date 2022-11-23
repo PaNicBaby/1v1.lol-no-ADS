@@ -3,7 +3,7 @@
 
 **UNDETECTED
 
-**#HotKeys:
+#HotKeys:
 
 [T] to toggle Aimbot
 
@@ -12,7 +12,7 @@
 [M] to toggle ESP
 
 
-**#How to use 1v1.LOL Hack:
+#How to use 1v1.LOL Hack:
 
 1. `Download the archive from our website`
 
