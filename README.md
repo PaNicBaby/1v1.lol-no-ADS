@@ -3,7 +3,7 @@
 
 UNDETECTED
 
-**#HotKeys:
+##HotKeys:
 
 [T] to toggle Aimbot
 
