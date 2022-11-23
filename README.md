@@ -11,10 +11,11 @@
 
 
 #How to use 1v1.LOL Hack:
-1. Download the archive from our website
 
-2. Choose the desired script
+1. `Download the archive from our website`
 
-3. Use Tampermonkey or Violentmonkey to install this script.
+2. `Choose the desired script`
 
-4. Enjoy!
+3. `Use Tampermonkey or Violentmonkey to install this script.`
+
+4. `Enjoy!`
