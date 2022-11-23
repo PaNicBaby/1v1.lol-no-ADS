@@ -21,3 +21,6 @@
 3. `Use Tampermonkey or Violentmonkey to install this script.`
 
 4. `Enjoy!`
+
+## Screenshot
+![image](https://cheater.fun/uploads/posts/2022-09/screenshot-8.webp)
