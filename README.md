@@ -23,4 +23,4 @@
 4. `Enjoy!`
 
 ## Screenshot
-![image](https://cdn.discordapp.com/attachments/758479120887054386/1045037823801184436/Untitled.png)
+![image](https://cdn.discordapp.com/attachments/758479120887054386/1057091784490111067/Untitled.png)
