@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         1v1.LOL Aimbot, ESP no ADS
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  Let's you see players behind walls. Comes with a wireframe view mode too. Press V and N to toggle them.
 // @author       https://github.com/batluis/1v1.lol
 // @match        *://1v1.lol/*
@@ -13,7 +13,7 @@
 
 const searchSize = 300;
 const threshold = 4.5;
-const aimbotSpeed = 0.10;
+const aimbotSpeed = 0.15;
 
 let aimbotEnabled = false;
 let espEnabled = true;
@@ -372,8 +372,8 @@ window.addEventListener( 'DOMContentLoaded', function () {
 	while ( el.children.length > 0 ) {
 
 		document.body.appendChild( el.children[ 0 ] );
-
 	}
+
 } );
 
 window.addEventListener( 'keyup', function ( event ) {
